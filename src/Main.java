@@ -1,11 +1,21 @@
 public class Main {
-
     public static void main(String[] args) {
-     System.out.println("Hello World");
+        System.out.println("Hello World");
+        helloWorld();
+        yourName();
+
+    }
+    public static void helloWorld(){
+
+      System.out.println("Hello Github World");
     }
 
-    public static void helloWorld(){ System.out.println("Hello World"); }
+
+    public static void yourName(){
 
 
+
+
+    }
 
 }
